@@ -5,6 +5,7 @@ A character-level language model built in PyTorch, inspired by Andrej Karpathy's
 ## 🚀 Overview
 The goal of this project was to train a neural network to understand the linguistic structure of humor, specifically short, one-liner jokes. This model was built from the ground up, including the implementation of self-attention mechanisms and training loops.
 
+
 ## 🛠️ Tech Stack
 Language: Python
 
@@ -13,6 +14,7 @@ Framework: PyTorch
 Environment: Google Colab (GPU Accelerated)
 
 Dataset: Short Jokes Dataset (~3000 samples)
+
 
 ## 📈 Learning Progression
 I structured the development into three distinct phases to measure performance gains:
@@ -23,14 +25,16 @@ The Transformer: A multi-layered attention-based model that utilized context (bl
 
 The Transformer with Multiple Heads: Added 4 - 6 Heads, instead of the single head baseline.
 
-📊 Key Results
+
+## 📊 Key Results
 Loss Function: Cross-Entropy Loss
 
 Final Validation Loss: 1.53
 
 Hardware: Trained using a free NVIDIA T4 GPU on Google Colab.
 
-📝 How to Use
+
+## 📝 How to Use
 Open the .ipynb file in Google Colab.
 
 Set the Hardware Accelerator to T4 GPU. It runs on CPU as well albeit slower.

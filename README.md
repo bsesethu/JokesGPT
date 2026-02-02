@@ -44,6 +44,6 @@ Run all cells to preprocess the data, define the architecture, and begin the tra
 Use the generate function at the bottom of each section to see the model's attempt at comedy!
 
 
-## Author: Sesethu M. Bango
+### Author: Sesethu M. Bango
 
-## Linkedin: https://www.linkedin.com/in/sesethu-bango-197856380
+### Linkedin: https://www.linkedin.com/in/sesethu-bango-197856380

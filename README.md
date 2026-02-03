@@ -1,4 +1,4 @@
-# 🎭 Joke-GPT: Building a Transformer from Scratch
+# 🎭 Jokes-GPT: Building a Transformer from Scratch
 A character-level language model built in PyTorch, inspired by Andrej Karpathy's "Zero to Hero" series. This project demonstrates an understanding of how Large Language Models (LLMs) function, moving from a simple Bigram baseline to a mini Generative Pre-Trained Transformer (GPT).
 
 
